@@ -1,0 +1,49 @@
+.store{
+    margin-top: 5rem;
+}
+.store-heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.store .store-page{
+    display: flex;
+    
+}
+.store-types{
+    margin-top: 3rem;
+}
+.store-types ul{
+    display: flex;
+    justify-content: space-between;
+}
+.store-types .first{
+    border-radius: 0px 28px 28px 0px;
+    border: 1px dashed #5C332B;
+    margin-bottom: .5rem;
+    padding: .2rem .6rem;
+   
+
+}
+.store-cards{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 2rem;
+    margin-top: 3rem;
+  
+  
+    
+}
+
+.store .card{
+    border: none;
+    background-color: #F9F9F9;
+    border-radius: 143px 143px 6px 6px;
+    padding: 1rem;
+}
+.card .add{
+    color: #B05C26;
+    font-size: 1.2rem;
+    cursor: pointer;
+}

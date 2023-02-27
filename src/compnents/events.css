@@ -1,0 +1,34 @@
+.events .card{
+    border: none;
+}
+.event-cont{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    gap: 2rem;
+
+}
+.event-right .first{
+    color: #B05C26;
+    font-weight: bold;
+
+}
+.events  .event-cont {
+    margin-top: 8rem;
+    background: url(../images//Group\ 4202.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.events{
+    margin-bottom: 2rem;
+}
+
+.event-cont .event-left img{
+  width:100%;
+
+}
+.event-cont .event-left {
+    margin-right: 5rem;
+    width:400px ;
+}

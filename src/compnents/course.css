@@ -1,0 +1,20 @@
+.courses-cont{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    gap: 8rem;
+}
+.courses-cont .card{
+    border: none;
+    width: 338px;;
+}
+.courses{
+    margin-top: 7rem;
+}
+.courses-cont .card p{
+    color: #5C332B;
+    font-weight:bold ;
+}
+.courses .card .add{
+    color: #B05C26;
+}

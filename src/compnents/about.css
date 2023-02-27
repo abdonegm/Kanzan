@@ -1,0 +1,14 @@
+.about-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.about-info{
+    width: 770px;
+}
+.about{
+    margin: 3rem;
+}
+.about .contct{
+    color: var(--main-color);
+}

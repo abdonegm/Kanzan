@@ -1,0 +1,15 @@
+.header{
+    height: calc(100vh - 7rem);
+    background-color: darkcyan;
+    background: url("../images//Mask\ Group\ 1.jpg") center;
+
+    display: flex;
+    align-items: center;
+    background-size: cover; 
+}
+ .contct{
+    color: var(--main-color);
+    font-weight: bold;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
